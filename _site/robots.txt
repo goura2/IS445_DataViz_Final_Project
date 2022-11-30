@@ -1,0 +1,1 @@
+Sitemap: http://localhost:4008/goura2/goura2.github.io/sitemap.xml
